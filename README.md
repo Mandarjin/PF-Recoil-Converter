@@ -9,7 +9,7 @@ To call the script open the containg folder in a terminal and use the folling co
 arguments:
 info - Gives info about the script
 convert - Converts recoil, code is much easier to digest and follow
-oneliners - This does the same as convert but the code has been condensed down by 1 line for every 2
+oneliners - the entire script condensed down to 1 line
 hello - hi
 
 If you wish to run the source code script:
