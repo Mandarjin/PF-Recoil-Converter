@@ -18,6 +18,5 @@ pip install "typer[all]"
 pip install pyperclip
 
 Python Main.py convert
-give the input requested
 
 Thanks @yeha. for the help :3
